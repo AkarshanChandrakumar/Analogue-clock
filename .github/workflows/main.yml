@@ -1,4 +1,4 @@
-name: CI/CD for HTML App - Dockers
+name: CI/CD for HTML App - Dockerstt
 
 on:
   push:
