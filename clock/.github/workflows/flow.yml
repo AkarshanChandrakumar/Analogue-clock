@@ -1,4 +1,4 @@
-name: CI/CD for HTML App - Docker
+name: CI/CD for HTML App - Dockers
 
 on:
   push:
